@@ -171,7 +171,7 @@ For future projects, I plan to focus on:
 
 - Frontend Mentor - [@sof0404](https://www.frontendmentor.io/profile/sof0404)
 - GitHub - [@sof0404](https://github.com/sof0404)
-- LinkedIn - [Sofía]([https://linkedin.com/in/sof0404](https://www.linkedin.com/in/sof%C3%ADa-barboza-vargas-a6487a262/))
+- LinkedIn - [Sofía](https://www.linkedin.com/in/sof%C3%ADa-barboza-vargas-a6487a262)
 
 ## Acknowledgments
 
