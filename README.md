@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/yourusername/product-list-with-cart)
+- Solution URL: [GitHub Repository](https://github.com/sof0404/product-list-with-cart)
 - Live Site URL: [Live Demo](http://localhost:8000)
 
 ## My process
@@ -169,9 +169,9 @@ For future projects, I plan to focus on:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- GitHub - [@yourusername](https://github.com/yourusername)
-- LinkedIn - [Your Name](https://linkedin.com/in/yourprofile)
+- Frontend Mentor - [@sof0404](https://www.frontendmentor.io/profile/sof0404)
+- GitHub - [@sof0404](https://github.com/sof0404)
+- LinkedIn - [Sofía](https://linkedin.com/in/sof0404)
 
 ## Acknowledgments
 
