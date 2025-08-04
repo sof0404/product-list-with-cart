@@ -31,7 +31,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Product List with Cart Solution](./preview.jpg)
+
+<img width="1545" height="1043" alt="imagen" src="https://github.com/user-attachments/assets/7aa6fc83-93fa-4179-b844-5c53c9177a3c" />
 
 ### Links
 
